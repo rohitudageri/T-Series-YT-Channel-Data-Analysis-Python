@@ -1,4 +1,4 @@
-# Exploratory Data Analysis and Insights Generation for T-series YouTube Channel
+# Exploratory Data Analysis and Insights Generation for T-series YouTube Channel Using Python
 
 # Introduction:
 In this project, we will conduct a comprehensive exploratory data analysis (EDA) of the T-series YouTube channel dataset. The dataset contains information about various videos, including their video IDs, titles, descriptions, engagement metrics, publishing dates, and more. The goal of this project is to extract meaningful insights from the data that can help us understand the channel's content strategy, audience engagement, and trends over time.
